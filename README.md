@@ -4,5 +4,5 @@ It makes the HTTP request to the Open Trivia API to retrieve a new(random) quest
 
 With this mini game I gained better understanding of HTTP requests and the process of retrieving the information from the APIs.
 
-# Installation
+## Installation
 Clone the repo. This is a console app so run it from the console and enjoy the quizz :)
